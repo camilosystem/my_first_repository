@@ -1,1 +1,1 @@
-This project is about **GIT Commands**
+This is my project
